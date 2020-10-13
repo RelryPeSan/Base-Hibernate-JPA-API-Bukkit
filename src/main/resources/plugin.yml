@@ -1,0 +1,5 @@
+name: SQLPluginTest
+version: 1.0-SNAPSHOT
+main: me.reratos.sqlplugintest.SQLPluginTest
+author: Relry
+database: true
